@@ -11,10 +11,13 @@ body {
   width: 70%;
   max-width: 1000px;
   margin: 0 auto;
-  border-radius: 30px;
+  border-radius: 40px;
   column-gap: 20px;
   justify-content: space-between;
   line-height: 1.5;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 25px;
 }
 /* 
 img {
@@ -28,8 +31,27 @@ header {
 }
 
 img {
-  /* width: 100%;
-  height: auto; */
   border-radius: 25px;
   text-align: center;
+  max-width: 100%;
+  height: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  color: #96b2b9;
+  font-weight: 1000;
+}
+
+h2 {
+  padding-top: 20px;
+}
+
+#flowers {
+  padding-top: 30px;
+  width: 550px;
+  border-radius: 100px;
 }
