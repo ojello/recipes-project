@@ -35,11 +35,14 @@ img {
   text-align: center;
   max-width: 100%;
   height: auto;
+  opacity: 80%;
 }
 
 h1 {
   text-align: center;
-  text-shadow: 2px 2px #e6c8fd;
+  color: black;
+
+  text-shadow: 1px 2px #96b2b9;
 }
 
 h3 {
@@ -72,8 +75,12 @@ footer {
 
 .btn {
   background-color: pink;
+  text-transform: uppercase;
+  text-shadow: 1px 1px #251234;
+
   color: white;
-  font-size: 12px;
+  font-size: 10px;
+  font-weight: bold;
   width: 180px;
   height: 50px;
   border-color: seashell;
