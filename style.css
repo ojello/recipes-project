@@ -70,6 +70,21 @@ footer {
   text-align: center;
 }
 
-button {
+.btn {
+  background-color: pink;
   color: white;
+  font-size: 60.5%;
+  width: 180px;
+  height: 50px;
+  border-color: seashell;
+  border-radius: 50px;
+  margin: 4px 2px;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  transition: all 1s;
+}
+
+.btn:hover {
+  background-color: powderblue;
 }
