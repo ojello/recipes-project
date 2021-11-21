@@ -101,3 +101,10 @@ footer {
 .btn:hover {
   background-color: powderblue;
 }
+
+#flowers {
+  width: 600px;
+  height: 700px;
+  padding-left: -20px;
+  opacity: 90%;
+}
