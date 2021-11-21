@@ -39,11 +39,13 @@ img {
 
 h1 {
   text-align: center;
+  text-shadow: 2px 2px #e6c8fd;
 }
 
 h3 {
   color: #96b2b9;
   font-weight: 1000;
+  text-shadow: 1px 1px #9f9a9a;
 }
 
 h2 {
